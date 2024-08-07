@@ -1,0 +1,21 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 130px;
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    font-size: 15px;
+    gap: 60px;
+}
+
+.navbar img{
+    height:90px;
+    width: 90px;
+    padding: 0px;
+    justify-content: flex-start;
+}
